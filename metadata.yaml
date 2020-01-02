@@ -1,11 +1,16 @@
 _repo: Les-aventures-de-Don-Juan-de-Vargas-racontees-par-lui-meme-Traduites-de-l-espagnol-sur-le-man__61035
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61035-h/images/cover.jpg
 creator:
   author:
     agent_name: Ternaux-Compans, Henri
     gutenberg_agent_id: '51231'
     url: http://www.gutenberg.org/2009/agents/51231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61035#Les-aventures-de-Don-Juan-de-Vargas-racontees-par-lui-meme-Traduites-de-l-espagnol-sur-le-man_
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
